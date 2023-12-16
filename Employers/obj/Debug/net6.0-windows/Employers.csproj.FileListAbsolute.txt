@@ -1,0 +1,82 @@
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Employers.exe
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Employers.deps.json
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Employers.runtimeconfig.json
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Employers.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Employers.pdb
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\Employers.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\Employers_MarkupCompile.cache
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\Employers_MarkupCompile.lref
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\Employers.g.resources
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\Employers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\Employers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\Employers.AssemblyInfo.cs
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\Employers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\Employers.csproj.CopyComplete
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\Employers.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\refint\Employers.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\Employers.pdb
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\Employers.genruntimeconfig.cache
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\ref\Employers.dll
+C:\Users\User\Desktop\gobab\Employers\Employers\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\arbuzov.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\arbuzov - Копировать.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\ivanov - Копировать.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\ivanov.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\kranivina - Копировать.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\kranivina.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\malix - Копировать.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\malix.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\petrov - Копировать.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\petrov.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\saharov - Копировать.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\saharov.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\sidorova - Копировать.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\sidorova.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\sitnikov.png
+C:\Users\User\Desktop\gobab\Employers\Employers\bin\Debug\net6.0-windows\Images\zyblikova.png

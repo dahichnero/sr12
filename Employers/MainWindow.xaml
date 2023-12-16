@@ -1,0 +1,60 @@
+﻿<Window x:Class="Employers.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:conv="clr-namespace:Employers.Converters"
+        xmlns:local="clr-namespace:Employers"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="500" DataContext="{Binding Mode=OneWay, RelativeSource={RelativeSource Self}}">
+    <Window.Resources>
+        <conv:ImageConverter x:Key="ImagesConv"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <TextBox x:Name="search" TextChanged="search_TextChanged" Grid.Row="0" Width="200"/>
+            <ComboBox Width="200" x:Name="sort" SelectionChanged="sort_SelectionChanged">
+                <ComboBoxItem>
+                    <Label Content="По имени"/>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <Label Content="По фамилии"/>
+                </ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+        
+        <ListView ScrollViewer.HorizontalScrollBarVisibility="Disabled" ItemsSource="{Binding Employ}" Grid.Row="1">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="100"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Image Grid.Column="0" Source="{Binding Photo, Converter={StaticResource ImagesConv}}" Height="100"/>
+                        <StackPanel Grid.Column="1" Grid.Row="0">
+                            <TextBlock TextWrapping="Wrap">
+                                <Run Text="{Binding Name}"/>
+                                <Run Text="{Binding FirstName}"/>
+                                <Run Text="{Binding LastName}"/>
+                                <LineBreak/>
+                                <Run Text="{Binding Phone}"/>
+                                <LineBreak/>
+                                <Run Text="{Binding Birth}"/>
+                                <LineBreak/>
+                                <Run Text="{Binding Address}"/>
+                                <LineBreak/>
+                                <Run Text="{Binding JobNavigation.JobName}"/>
+                            </TextBlock>
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+
+        </ListView>
+    </Grid>
+</Window>
